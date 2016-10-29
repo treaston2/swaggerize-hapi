@@ -1,5 +1,7 @@
 ### Unreleased
 
+- Testing against latest hapi.
+
 #### Bug fixes
 
 - #50

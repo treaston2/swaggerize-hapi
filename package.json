@@ -18,13 +18,13 @@
     "async": "^1.5.0",
     "core-util-is": "^1.0.1",
     "hoek": "^2.6.0",
-    "joi": "^6.6.1",
+    "joi": "^9.2.0",
     "js-yaml": "^3.2.6",
     "swaggerize-routes": "^1.0.3"
   },
   "devDependencies": {
     "boom": "~2.8.0",
-    "hapi": "^13.3.0",
+    "hapi": "^15.2.0",
     "istanbul": "~0.2.3",
     "jshint": "^2.4.1",
     "tape": "^3.0.0"
